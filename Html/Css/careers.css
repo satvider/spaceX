@@ -1,5 +1,5 @@
 body{
-    margin: auto;
+    margin: 0%;
     padding: 0%;
     
 }
@@ -33,4 +33,20 @@ padding-top: 100px;
 .form-container{
     margin-left:500px;
     margin-right:500px;
+}
+input::placeholder{
+    color: #fff;
+    font-size:large;
+}
+#button{
+background-color: #ffffff00;
+padding:26px  310px;
+justify-content:center;
+display: block;
+align-items: center;
+display: flex;
+padding-left: 200px;
+border-color: #fff;
+color: #fff;
+
 }
